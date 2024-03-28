@@ -69,4 +69,7 @@ return result
 
 [네이버](https://www.naver.com)
 
-[네이버](https://www.naver.com, "클릭하면 네이버로 이동합니다")
+[네이버](https://www.naver.com "클릭하면 네이버로 이동합니다")
+
+<a href="https://www.naver.com" target="blank">새창에서 열기</a>
+
